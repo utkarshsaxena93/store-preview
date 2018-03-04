@@ -2,7 +2,7 @@ import * as React from 'react';
 
 class App extends React.Component {
   render() {
-    return 'Store preview';
+    return 'Preview';
   }
 }
 
